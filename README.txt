@@ -19,6 +19,6 @@ Once you have selected the notebook, you can run each individual cell or run the
 Warning, the `p1_adult.ipynb` contains many more intances, so the training takes a long time.
 
 ```bash
-git clone <url>
+git clone https://github.com/jmatamoros3/supervised-learning.git
 jupyter notebook
 ```
